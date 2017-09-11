@@ -1,0 +1,13 @@
+﻿<Configuration>
+  <Config>
+    <ExchangeService></ExchangeService>
+    <EmailAddress></EmailAddress>
+    <UserAccount></UserAccount>
+    <UserAccountPassword></UserAccountPassword>
+    <SN></SN>
+    <Folio></Folio>
+    <ProcessInstance></ProcessInstance>
+    <BusinessKey></BusinessKey>
+    <ProcessTypeId></ProcessTypeId>
+  </Config>
+</Configuration>
